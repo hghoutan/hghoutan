@@ -55,11 +55,14 @@ I'm a passionate developer from Morocco 🌍, dedicated to creating innovative s
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hghoutan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hicham's GitHub stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hghoutan&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true&hide=stars" alt="Hicham's GitHub stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hghoutan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=hghoutan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hghoutan&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hghoutan&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🤝 Connect with Me
@@ -86,9 +89,3 @@ I'm a passionate developer from Morocco 🌍, dedicated to creating innovative s
 <img src="https://komarev.com/ghpvc/?username=hghoutan&color=0891b2&style=flat-square">
 
 ---
-
-<div align="center">
-  
-  ### 💪 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
